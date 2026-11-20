@@ -1,0 +1,13 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "description": "ПЗ 8: CRUD та агрегація з Mongoose і MongoDB Atlas",
+  "main": "demo.js",
+  "scripts": {
+    "demo": "node demo.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mongoose": "^8.5.0"
+  }
+}
